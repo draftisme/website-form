@@ -141,8 +141,8 @@ input:focus, textarea:focus{
     display: inline-block;
     margin-right: 10px;
     border: 2px solid rgb(161, 161, 161);
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
 }
 
 .skill-location .bottom input[type=checkbox]:checked + span.checkbox {
